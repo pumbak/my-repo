@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
- 
+ /23
 union Data {
    int i;
    float f;
