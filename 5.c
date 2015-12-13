@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-//neww
+//neww2
  
 union Data {
    int i;
