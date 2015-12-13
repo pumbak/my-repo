@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 //zmiana 8 w galezi glownej
+//commit z plikami tmp
  
 union Data {
    int i;
