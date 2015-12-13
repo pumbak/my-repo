@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 //zmiana 10 w galezi glownej
+//commit z ignorem
 
 union Data {
    int i;
