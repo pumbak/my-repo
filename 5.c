@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-//neww2
+//zmiana 5 w galezi glownej
  
 union Data {
    int i;

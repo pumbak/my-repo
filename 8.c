@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+//zmiana 8 w galezi glownej
  
 union Data {
    int i;

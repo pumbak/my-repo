@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-//w nowym branchu
+//zmiana 1 w galezi glownej
  
 union Data {
    int i;

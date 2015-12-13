@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
- //22
+//zmiana 6 w galezi glownej
 union Data {
    int i;
    float f;
