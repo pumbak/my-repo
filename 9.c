@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 //zmiana 9 w galezi glownej
+//commit ignore z js
 
 union Data {
    int i;
